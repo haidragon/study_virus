@@ -1,5 +1,5 @@
 # study_virus
 病毒
 
-<span style="color: red"> Some green text </span>
+<font color="#dd0000">浅红色文字：</font><br /> 
  
